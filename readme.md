@@ -142,7 +142,7 @@
 ```
 DADOS COMPARTILHADOS
      ↙️      ↘️
-LIBRASEMFAMÍLIA ← → EDULIBARAS ANALYTICS
+LIBRASEMFAMÍLIA ← → EDULIBRAS ANALYTICS
      ↕️              ↕️
 CONEXÃO SURDA ← → LIBRASCAREER
      ↘️      ↙️
@@ -235,7 +235,7 @@ Plataforma gamificada que ensina Libras para famílias ouvintes através de micr
 - NPS familiar
 - Taxa de transição para educação formal
 
-### 4.2 PRODUTO 2: EDULIBARAS ANALYTICS
+### 4.2 PRODUTO 2: EDULIBRAS ANALYTICS
 **Gestão Inteligente da Educação Inclusiva**
 
 **PROBLEMA ESPECÍFICO:**
@@ -1282,7 +1282,7 @@ QA Testing → Deploy to Production → Monitor
 | NEXUS SURDO | 9, 35, 41, 42 | BR, US, EU | Filing Q4 2025 |
 | LIBRASEMFAMÍLIA | 9, 41 | BR, LATAM | Filing Q1 2025 |
 | CONEXÃO SURDA | 35, 38, 42 | BR | Filing Q1 2025 |
-| EDULIBARAS | 9, 35, 42 | BR | Filing Q1 2025 |
+| EDULIBRAS | 9, 35, 42 | BR | Filing Q1 2025 |
 | LIBRASCAREER | 35, 41 | BR | Filing Q2 2025 |
 
 **Trademark Strategy:**
